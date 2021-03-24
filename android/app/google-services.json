@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307054805894",
+    "project_id": "signlanguagetranslation-c2006",
+    "storage_bucket": "signlanguagetranslation-c2006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307054805894:android:2ec41367785bfbc931a207",
+        "android_client_info": {
+          "package_name": "com.example.SLT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307054805894-0pd7q3q6id70odijejisfml22lsv8rkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNA_jYKDUvhvHGl7V8YfMpq5bST3C1FTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307054805894-0pd7q3q6id70odijejisfml22lsv8rkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
